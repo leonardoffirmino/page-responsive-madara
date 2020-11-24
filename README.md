@@ -1,5 +1,3 @@
-<h1>Página Madara Uchina</h1>
-
 #Projeto de página Responsiva para treinar menu e Display - Flex e Grid
 
 <p>Página inspirada no Vídeo posta pela a escola de tecnologia <a href="https://rocketseat.com.br">RocketSeat</a></p>
